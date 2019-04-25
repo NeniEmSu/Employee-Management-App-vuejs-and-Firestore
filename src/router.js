@@ -7,7 +7,6 @@ import Dashboard from '@/components/Dashboard'
 import NewEmployee from '@/components/NewEmployee'
 import ViewEmployee from '@/components/ViewEmployee'
 import EditEmployee from '@/components/EditEmployee'
-import Navbar from '@/components/Navbar'
 
 
 Vue.use(Router)
